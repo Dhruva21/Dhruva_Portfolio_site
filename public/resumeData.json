@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Dhruva Indavarapu",
+    "occupation": "Graduate Student at  California state university East Bay. Software Engineer Intern at Sk hynix Memory solutions, America",
+    "description": "Enthusiastic problem solver",
+    "image": "Dhruva_Indavarapu_image (1).jpeg",
+    "bio": "I am a dynamic and adaptable individual currently pursuing a Master's degree in Computer Science at California State University, East Bay. I have a good understanding of Data Structures and Algorithms. I write code efficiently in python programming language. I demonstrate my strong engineering skills by writing efficient but maintainable code continuously integrating the features I build to React and Django-based applications. I have good communication skills that help me understand and gather requirements skillfully. I have the ability and knowledge to work with various technologies coupled with my can-do attitude will make me a great team player. ",
+    "email": "dhruvaind3@gmail.com",
+    "phone": "4088330585",
+    "address": {
+      "street": "25836 hayward blvd",
+      "city": "Hayward",
+      "state": "California",
+      "zip": "94542",
+      "country":"United States"
+    },
+    "website": "http://www.timbakerdev.com",
+    
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhruva-indavarapu/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "http://github.com/Dhruva21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "California State university, East Bay",
+        "degree": "Masters in Computer Science",
+        "graduated": "Aug 2021 - May 2023",
+        "description": "Grade: 3.97.  Courses: Advance algorithms, Database systems, Cyber Security, Theory of Computation, Operating systems, Programming language concepts, Machine Learning."
+      },
+      {
+        "school": "Sreenidhi Institute of science and technology",
+        "degree": "BTECH in Computer Science",
+        "graduated": "Aug 2017 - Jul 2021",
+        "description": "Grade: 9.07. Courses - Programming languages: C, Java, Python, Javascript, sql. Database: MYSQL. Other courses: Machine learning, Statistics, Computer Networks, Computer Organization and microprocessors."
+      }
+    ],
+    "work": [
+      {
+        "company": "Sk hynix memory solutions America Inc.",
+        "title": "Software Engineer Intern",
+        "years": "May 2022 - Present",
+        "description": " Developed a GUI application using python for debugging the various security algorithms for the internal team. Collaborated with the team to gather all the necessary requirements for the interface and built a good plan to optimize the layout. Implemented python script to automate the data collection process using internal API and reduced manual effort by 50%. Worked on generating dummy Root CA certificates(chain of trust) using openssl used for internal development process. Worked on writing unit test scripts for various security algorithms using C."
+      },
+      {
+        "company": "California State University",
+        "title": "Teaching Assistant",
+        "years": "January 2022 - May 2022",
+        "description": " Enhanced student learning by providing variety set of problems to tackle using various data structures and algorithms. Delivered key lectures on few topics for over 30 undergraduate students. Introduced git and Clion to students for working on Lab assignments. Constructed and reconstructed lessons according to dynamic interests of students by making use of github classroom. Monitored student activity in the class and provided guidance throughout the course development. Collaborated with professor for keeping track of student progress and preparing lesson plans."
+      },
+      {
+        "company": "Cantilever Labs",
+        "title": "Software Engineer Intern",
+        "years": "May 2020 - August 2020",
+        "description": " Worked on Car Rental System using React which is fast and easy way to rent. Implemented reserve vehicle feature that shows available cars to customers based on car model, zip code and dates. Coordinated with the development team to discuss about user interface ideas and applications. Collaborated with product management team from gathering the requirements to developing, testing, debugging and deploying the code."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 tracker",
+        "category": "Web application fetches the live updates of covid cases across the world.",
+        "image": "Covid19-tracker.png",
+        "url": "https://github.com/Dhruva21/Covid19-tracker"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "React based Web application that has all the functionalities of Amazon Website.",
+        "image": "amazon-clone.png",
+        "url": "https://github.com/Dhruva21/amazon-clone"
+      },
+      {
+        "title": "Dashboard for Ethereum Push Notification Service ",
+        "category": "React based Web application that has epns stats.",
+        "image": "espn-stats.png",
+        "url": "https://github.com/Dhruva21/epns-stats"
+      },
+      {
+        "title": "Plant Disease Detection.",
+        "category": "Machine learning project which detects disease by the image of the plant.",
+        "image": "plantDisease-detection.png",
+        "url": "https://github.com/Dhruva21/PlantDiseaseDetection"
+      }
+    ]
+  }
+  
+}
