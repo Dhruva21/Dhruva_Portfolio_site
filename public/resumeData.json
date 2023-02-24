@@ -3,8 +3,8 @@
     "name": "Dhruva Indavarapu",
     "occupation": "Graduate Student at  California state university East Bay. Software Engineer Intern at Sk hynix Memory solutions, America",
     "description": "Enthusiastic problem solver",
-    "image": "Dhruva_Indavarapu_image (1).jpeg",
-    "bio": "I am a dynamic and adaptable individual currently pursuing a Master's degree in Computer Science at California State University, East Bay. I have a good understanding of Data Structures and Algorithms. I write code efficiently in python programming language. I demonstrate my strong engineering skills by writing efficient but maintainable code continuously integrating the features I build to React and Django-based applications. I have good communication skills that help me understand and gather requirements skillfully. I have the ability and knowledge to work with various technologies coupled with my can-do attitude will make me a great team player. ",
+    "image": "id_card.png",
+    "bio": "Dynamic and adaptable individual currently pursuing a Master's degree in Computer Science at California State University, East Bay. I have a good understanding of Data Structures and Algorithms. I write code efficiently in python programming language. I demonstrate my strong engineering skills by writing efficient but maintainable code continuously integrating the features I build to React and Django-based applications. I have good communication skills that help me understand and gather requirements skillfully. I have the ability and knowledge to work with various technologies coupled with my can-do attitude will make me a great team player. ",
     "email": "dhruvaind3@gmail.com",
     "phone": "4088330585",
     "address": {
@@ -72,7 +72,7 @@
         "level": "90%"
       },
       {
-        "name": "Java",
+        "name": "SQL",
         "level": "85%"
       },
       {
@@ -102,11 +102,33 @@
       {
         "name": "MongoDB",
         "level": "60%"
+      },
+      {
+        "name": "AWS",
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Project Management",
+        "category": "MERN stack based web application has all the CRUD operations to manage the projects",
+        "image": "project-mgmt.png",
+        "url": "https://github.com/Dhruva21/Project-Management---MERN"
+      },
+      {
+        "title": "Tenzies Game",
+        "category": "Dice Rolling game built by React and styles using CSS",
+        "image": "tenzies.png",
+        "url": "https://dhruva-tenzies-game.netlify.app"
+      },
+      {
+        "title": "Exercise-tracker",
+        "category": "MERN stack based web application has all the CRUD operations to track the exercises",
+        "image": "Exercise-tracker.png",
+        "url": "https://github.com/Dhruva21/exercise-tracker-mern"
+      },
       {
         "title": "Covid-19 tracker",
         "category": "Web application fetches the live updates of covid cases across the world.",
