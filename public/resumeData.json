@@ -133,7 +133,7 @@
         "title": "Covid-19 tracker",
         "category": "Web application fetches the live updates of covid cases across the world.",
         "image": "Covid19-tracker.png",
-        "url": "https://github.com/Dhruva21/Covid19-tracker"
+        "url": "https://live-status-covid19.netlify.app"
       },
       {
         "title": "Amazon Clone",
